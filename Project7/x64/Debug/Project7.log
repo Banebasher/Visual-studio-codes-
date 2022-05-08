@@ -1,0 +1,5 @@
+﻿  SpStudent.cpp
+  TestSpStudent.cpp
+C:\Users\Alfredq\Downloads\TestSpStudent.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Project7.vcxproj -> C:\Users\Alfredq\Documents\Visual Studio 2022\VIsual studio codes\Project7\x64\Debug\Project7.exe

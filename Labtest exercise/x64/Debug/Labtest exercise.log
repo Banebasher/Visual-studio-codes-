@@ -1,0 +1,3 @@
+﻿  Labtest exercise.cpp
+C:\Users\Alfredq\Documents\Visual Studio 2022\VIsual studio codes\Labtest exercise\Labtest exercise.cpp(35,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Labtest exercise.vcxproj -> C:\Users\Alfredq\Documents\Visual Studio 2022\VIsual studio codes\Labtest exercise\x64\Debug\Labtest exercise.exe
